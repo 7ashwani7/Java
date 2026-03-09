@@ -13,7 +13,6 @@ public class ShellSort {
             }
         }
     }
-
     public static void main(String[] args) {
         int[] data = {12, 34, 54, 2, 3};
         shellSort(data);
