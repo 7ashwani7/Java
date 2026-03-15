@@ -9,6 +9,7 @@ public class Creating2DArray {
             arr[0][2] = 3;
             arr[0][3] = 4;
             arr[1][0] = 5;
+            
             arr[1][1] = 6;
             arr[1][2] = 7;
             arr[1][3] = 8;
